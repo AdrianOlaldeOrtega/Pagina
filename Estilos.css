@@ -1,0 +1,29 @@
+.texto{
+  color: white;
+  font-family: sans-serif;
+  padding: 70px;
+  font-size: 20px 
+}
+body{
+  background-image: url('Logo2.jpg');
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #777777;
+}
+p{
+  text-align: center;
+}
+th{
+  margin: 10px
+  color:white
+}
+td{
+  margin: 10px
+  color:white
+}
+.centrar{
+  text-align: center;
+  padding: 50px
+
+}
